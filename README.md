@@ -1,7 +1,7 @@
-# lczcalendar
-a light calendar with drag & frop appointments using angular
-written, Design, Completion by only SherVin Kalqjue
-
-Usage :
-npm install
+# <b>lczcalendar</b><br>
+a light calendar with drag & drop appointments using angular <br>
+written, Design, Completion by only SherVin Kalqjue <Br><Br>
+<BR>
+Usage :<br>
+npm install <BR>
 ng serve --open
